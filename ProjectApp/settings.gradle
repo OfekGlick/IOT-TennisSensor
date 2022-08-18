@@ -1,0 +1,21 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    /* MYO
+        RepositoriesMode.PREFER_SETTINGS instead of FAIL_ON_PROJECT_REPOS
+        to import chart capabilities
+     */
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
+    repositories {
+        google()
+        mavenCentral()
+        maven { url 'https://jitpack.io' } // MYO: import chart capabilities
+    }
+}
+rootProject.name = "Final Project"
+include ':app'

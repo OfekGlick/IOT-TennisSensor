@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Final Project</string>
+    <string name="our_final_project">Our Final Project</string>
+    <string name="part_1_analyzing_data">Part 1 - Analyzing Data</string>
+    <string name="part_2_our_system">Part 2 - Our System</string>
+    <string name="title_activity_main_part2_tabbed">MainPart2_Tabbed</string>
+    <string name="record_fragment_title">Record New Session</string>
+    <string name="report_fragment_title">Statistical Report</string>
+</resources>
