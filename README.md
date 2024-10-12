@@ -34,7 +34,7 @@ python scripts which performs an analysis of a tennis session and outputs detail
 regarding the tennis session.<br><br>
 Screenshots of the app:
 ![image](https://github.com/user-attachments/assets/39713d94-34e5-402a-9c19-6e638fee9140)
-![image](https://github.com/user-attachments/assets/64353232-d59e-4e77-b065-a054b9dde517)
+
 
 
 
