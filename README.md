@@ -8,7 +8,7 @@ This project contains code for two elements:
 - An IMU sensor, that is to be attached to the throat of a tennis racket
 - An accompanying andriod app that delivers statistics to the player regarding their athletic abilities.
 
-The intended use of the product was for the player to record a session of himself/herself playing
+The intended use of the product was for the player to record a session of himself/herself playing
 tennis and the tennis player would interact with the app to receive statistics regarding the recorded
 session. 
 
