@@ -1,7 +1,6 @@
 # IOT - TenniSense
 
-## Demo
-https://github.com/user-attachments/assets/ade98bc0-0949-4cd1-926b-d113f8834d64
+
 
 ## Description
 This repository contains the entire codebase for a sensor for tennis rackets. <br>
@@ -13,6 +12,8 @@ The intended use of the product was for the player to record a session of hims
 tennis and the tennis player would interact with the app to receive statistics regarding the recorded
 session. 
 
+## Demo
+https://github.com/user-attachments/assets/ade98bc0-0949-4cd1-926b-d113f8834d64
 
 ## Background
 ### Hardware Component
