@@ -24,7 +24,7 @@ The hardware of the project consists of the following:
 5. 9V Battery
 6. ESP32 Arduino
 
-The components were attached like so:
+The components were attached like so:<br>
 ![image](https://github.com/user-attachments/assets/6f1e77cc-ea38-4b93-bd5f-7afac8849e62)
 
 ### Software Component
@@ -32,7 +32,7 @@ The software component consists of a frontend Android App and a backend python s
 Android App serves as an interface with the sensor and allows the user to utilize the backend
 python scripts which performs an analysis of a tennis session and outputs detailed statistics
 regarding the tennis session.<br><br>
-Screenshots of the app:
+Screenshot of the app:<br>
 ![image](https://github.com/user-attachments/assets/39713d94-34e5-402a-9c19-6e638fee9140)
 
 
