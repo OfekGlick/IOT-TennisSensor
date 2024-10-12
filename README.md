@@ -1,5 +1,8 @@
 # IOT - TenniSense
 
+## Demo
+https://github.com/user-attachments/assets/ade98bc0-0949-4cd1-926b-d113f8834d64
+
 ## Description
 This repository contains the entire codebase for a sensor for tennis rackets. <br>
 This project contains code for two elements:
@@ -34,6 +37,4 @@ Screenshots of the app:
 
 
 
-## Demo
-https://github.com/user-attachments/assets/ade98bc0-0949-4cd1-926b-d113f8834d64
 
